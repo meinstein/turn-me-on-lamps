@@ -7,7 +7,7 @@ const List = (dope, props) => {
 
   const ListItems = props.data
     .filter(({ categories }) => {
-      if (!dope.state.category) {
+      if (!props.category) {
         return true
       }
       return categories.includes(props.category)
