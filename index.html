@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Turn Me On Lamps</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="author" content="Maximillian Einstein" />
+    <meta name="description" content="Lamps made from mannequins and various industrial materials." />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+  <script src="https://unpkg.com/domdope/dist/umd/index.js"></script>
+  <script type="module">
+    import Root from './components/Root.js'
+    const rootEl = document.getElementById('root')
+    const dope = new DomDope(Root, rootEl)
+    dope.render()
+  </script>
+</html>

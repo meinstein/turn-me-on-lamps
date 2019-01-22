@@ -1,0 +1,410 @@
+[
+  {
+    "title": "humanity",
+    "slug": "humanity",
+    "available": true,
+    "categories": ["sculpture"],
+    "thumbnail": "humanity.jpg",
+    "images": ["humanity_1.jpg", "humanity_2.jpg"]
+  },
+  {
+    "title": "fleeting thought",
+    "slug": "fleeting-thought",
+    "available": false,
+    "categories": ["floor", "mannequin"],
+    "thumbnail": "fleeting_thought.jpg",
+    "images": ["fleeting_thought_1.gif"]
+  },
+  {
+    "title": "hose erection 2",
+    "slug": "hose-erection-2",
+    "available": false,
+    "categories": ["floor", "industrial"],
+    "thumbnail": "hose_erection_2.jpg",
+    "images": ["hose_erection_2_1.gif", "hose_erection_2_2.gif"]
+  },
+  {
+    "title": "yank my chain",
+    "slug": "yank-my-chain",
+    "available": false,
+    "categories": ["floor", "mannequin"],
+    "thumbnail": "yank_my_chain.jpg",
+    "images": ["yank_my_chain.gif"]
+  },
+  {
+    "title": "dude 2",
+    "slug": "dude-2",
+    "available": false,
+    "categories": ["head", "mannequin"],
+    "thumbnail": "dude_2.jpg",
+    "images": ["dude_2.gif"]
+  },
+  {
+    "title": "miss understood 2",
+    "slug": "miss-understood-2",
+    "available": false,
+    "categories": ["head", "mannequin"],
+    "thumbnail": "miss_understood_2.jpg",
+    "images": ["miss_understood_2_1.gif", "miss_understood_2_2.gif"]
+  },
+  {
+    "title": "st. joan of light 2",
+    "slug": "st-joan-of-light-2",
+    "available": false,
+    "categories": ["head", "mannequin"],
+    "thumbnail": "st_joan_of_light_2.jpg",
+    "images": ["st_joan_of_light_2_1.gif"]
+  },
+  {
+    "title": "lily longneck",
+    "slug": "lily-longneck",
+    "available": false,
+    "categories": ["floor", "mannequin"],
+    "thumbnail": "lily_longneck_2.jpg",
+    "images": ["lily_longneck_2_1.gif", "lily_longneck_2_2.gif"]
+  },
+  {
+    "title": "thoracic",
+    "slug": "thoracic",
+    "available": false,
+    "categories": ["floor", "industrial"],
+    "thumbnail": "thoracic.jpg",
+    "images": ["thoracic_1.gif", "thoracic_2.gif"]
+  },
+  {
+    "title": "magnum ribbed",
+    "slug": "magnum-ribbed",
+    "available": false,
+    "categories": ["floor", "industrial"],
+    "thumbnail": "magnum_ribbed.jpg",
+    "images": ["magnum_ribbed_1.gif", "magnum_ribbed_2.gif"]
+  },
+  {
+    "title": "hoses gone wild 2",
+    "slug": "hoses-of-gone-wild-2",
+    "available": true,
+    "categories": ["chandelier", "industrial"],
+    "thumbnail": "hoses_gone_wild_2.jpg",
+    "images": ["hoses_gone_wild_2_1.gif", "hoses_gone_wild_2_2.gif"]
+  },
+  {
+    "title": "milk",
+    "slug": "milk",
+    "available": true,
+    "categories": ["industrial", "sconce"],
+    "thumbnail": "milk.jpg",
+    "images": ["milk_1.gif", "milk_2.gif"]
+  },
+  {
+    "title": "hoses gone wild 1",
+    "slug": "hoses-gone-wild-1",
+    "available": true,
+    "categories": ["chandelier", "industrial"],
+    "thumbnail": "hoses_gone_wild_1.jpg",
+    "images": ["hoses_gone_wild_1_1.gif", "hoses_gone_wild_1_2.gif", "hoses_gone_wild_1_3.gif"]
+  },
+  {
+    "title": "flagella",
+    "slug": "flagella",
+    "available": true,
+    "categories": ["floor", "industrial"],
+    "thumbnail": "flagella.jpg",
+    "images": ["flagella.gif"]
+  },
+  {
+    "title": "gas lamp",
+    "slug": "gas-lamp",
+    "available": true,
+    "categories": ["floor", "industrial"],
+    "thumbnail": "gas_lamp.jpg",
+    "images": ["gas_lamp_1.gif", "gas_lamp_2.gif"]
+  },
+  {
+    "title": "yoni",
+    "slug": "yoni",
+    "available": true,
+    "categories": ["sconce", "industrial"],
+    "thumbnail": "yoni.jpg",
+    "images": ["yoni_1.gif", "yoni_2.gif", "yoni_3.gif"]
+  },
+  {
+    "title": "up yours",
+    "slug": "up-yours",
+    "available": true,
+    "categories": ["sconce", "industrial"],
+    "thumbnail": "up_yours.jpg",
+    "images": ["up_yours_1.gif", "up_yours_2.gif"]
+  },
+  {
+    "title": "self titled",
+    "slug": "self-titled",
+    "available": true,
+    "categories": ["sconce", "industrial"],
+    "thumbnail": "self_titled.jpg",
+    "images": ["self_titled_1.gif", "self_titled_2.gif"]
+  },
+  {
+    "title": "heart of the matter",
+    "slug": "heart-of-the-matter",
+    "available": false,
+    "categories": ["floor", "industrial"],
+    "thumbnail": "heart_of_the_matter.jpg",
+    "images": ["heart_of_the_matter.gif"]
+  },
+  {
+    "title": "the (light) intestine",
+    "slug": "the-light-intestine",
+    "available": false,
+    "categories": ["floor", "industrial"],
+    "thumbnail": "thelightintestinecover.jpg",
+    "images": ["theintestine.gif", "theintestine2.gif"]
+  },
+  {
+    "title": "ribbed",
+    "slug": "ribbed",
+    "available": true,
+    "categories": ["floor", "industrial"],
+    "thumbnail": "ribbed.jpg",
+    "images": ["ribbed-light.gif", "ribbed-light2.gif"]
+  },
+  {
+    "title": "Electrohead III",
+    "slug": "electrohead-iii",
+    "available": false,
+    "categories": ["mannequin"],
+    "thumbnail": "electrohead-3.jpg",
+    "images": ["electrohead-3.gif"]
+  },
+  {
+    "title": "St. Joan of Light",
+    "slug": "st-joan-of-light",
+    "available": false,
+    "categories": ["head", "mannequin"],
+    "thumbnail": "stjoanoflight.jpg",
+    "images": ["st-joan-of-light.gif"]
+  },
+  {
+    "title": "Hose Erection",
+    "slug": "hose-erection",
+    "available": true,
+    "categories": ["floor", "industrial"],
+    "thumbnail": "hoseerection.jpg",
+    "images": ["hose-erection.gif", "hose-erection2.gif"]
+  },
+  {
+    "title": "Light Twister",
+    "slug": "light-twister",
+    "available": true,
+    "categories": ["floor", "industrial"],
+    "thumbnail": "lighttwister.jpg",
+    "images": ["light-twister.gif"]
+  },
+  {
+    "title": "American Nightmare",
+    "slug": "american-nightmare",
+    "available": true,
+    "categories": ["floor", "industrial"],
+    "thumbnail": "americannightmare.jpg",
+    "images": ["american-nightmare.gif", "american-nightmare2.gif"]
+  },
+  {
+    "title": "ULO (Unidentified Lamp Object)",
+    "slug": "ulo",
+    "available": false,
+    "categories": ["floor", "industrial"],
+    "thumbnail": "ULO.jpg",
+    "images": ["ULO.gif", "ULO2.gif"]
+  },
+  {
+    "title": "Protea Head",
+    "slug": "protea-head",
+    "available": false,
+    "categories": ["floor", "industrial"],
+    "thumbnail": "proteahead.jpg",
+    "images": ["protea-head.gif"]
+  },
+  {
+    "title": "Limp Hose",
+    "slug": "limp-hose",
+    "available": false,
+    "categories": ["floor", "industrial"],
+    "thumbnail": "limphose.jpg",
+    "images": ["limp-hose.gif"]
+  },
+  {
+    "title": "Lightheaded 2",
+    "slug": "lightheaded-2",
+    "available": false,
+    "categories": ["floor", "mannequin"],
+    "thumbnail": "lightheaded2.jpg",
+    "images": ["lightheaded-2.gif"]
+  },
+  {
+    "title": "Downfall",
+    "slug": "downfall",
+    "available": false,
+    "categories": ["floor", "industrial"],
+    "thumbnail": "downfall.jpg",
+    "images": ["downfall1.jpg", "downfall2.jpg"]
+  },
+  {
+    "title": "Mainframe",
+    "slug": "mainframe",
+    "available": true,
+    "categories": ["floor", "industrial"],
+    "thumbnail": "mainframe.jpg",
+    "images": ["main-frame.jpg", "main-frame2.gif"]
+  },
+  {
+    "title": "Light Shower",
+    "slug": "light-shower",
+    "available": false,
+    "categories": ["floor", "industrial"],
+    "thumbnail": "lightshower.jpg",
+    "images": ["lightshower1.gif", "lightshower2.gif"]
+  },
+  {
+    "title": "Scatterbrained",
+    "slug": "scatterbrained",
+    "available": true,
+    "categories": ["floor", "mannequin"],
+    "thumbnail": "scatterbrained.jpg",
+    "images": ["scatterbrained.gif", "scatterbrained2.gif"]
+  },
+  {
+    "title": "Metal Head in Bloom",
+    "slug": "metal-head-in-bloom",
+    "available": false,
+    "categories": ["head", "mannequin"],
+    "thumbnail": "metalheadinbloom.jpg",
+    "images": ["metalheadinbloom.gif"]
+  },
+  {
+    "title": "Miss Understood",
+    "slug": "miss-understood",
+    "available": false,
+    "categories": ["head", "mannequin"],
+    "thumbnail": "missunderstood.jpg",
+    "images": ["miss-understood.gif"]
+  },
+  {
+    "title": "Electrohead 2",
+    "slug": "electrohead-2",
+    "available": true,
+    "categories": ["floor", "mannequin"],
+    "thumbnail": "electrohead2.jpg",
+    "images": ["electrohead-2.gif", "electrohead-2-2.gif"]
+  },
+  {
+    "title": "A Real Man",
+    "slug": "a-real-man",
+    "available": true,
+    "categories": ["floor", "mannequin"],
+    "thumbnail": "arealman.jpg",
+    "images": ["arealman.gif", "arealman2.gif"]
+  },
+  {
+    "title": "Lightheaded",
+    "slug": "lightheaded",
+    "available": false,
+    "categories": ["floor", "mannequin"],
+    "thumbnail": "lightheaded.jpg",
+    "images": ["lightheaded.gif"]
+  },
+  {
+    "title": "Twinkle Toes",
+    "slug": "twinkle-toes",
+    "available": false,
+    "categories": ["floor", "mannequin"],
+    "thumbnail": "twinkletoes.jpg",
+    "images": ["twinkletoes.gif", "twinkletoes2.gif"]
+  },
+  {
+    "title": "The Boob",
+    "slug": "the-boob",
+    "available": true,
+    "categories": ["floor", "mannequin"],
+    "thumbnail": "theboob.jpg",
+    "images": ["theboob.gif"]
+  },
+  {
+    "title": "Crowned Love",
+    "slug": "crowned-love",
+    "available": false,
+    "categories": ["floor", "mannequin"],
+    "thumbnail": "crownedlove.jpg",
+    "images": ["crownedlove.gif"]
+  },
+  {
+    "title": "Idea",
+    "slug": "idea",
+    "available": false,
+    "categories": ["floor", "mannequin"],
+    "thumbnail": "idea.jpg",
+    "images": ["idea.gif"]
+  },
+  {
+    "title": "Liberty",
+    "slug": "liberty",
+    "available": true,
+    "categories": ["floor", "mannequin"],
+    "thumbnail": "liberty.jpg",
+    "images": ["liberty.gif"]
+  },
+  {
+    "title": "Electrohead",
+    "slug": "electrohead",
+    "available": false,
+    "categories": ["head", "mannequin"],
+    "thumbnail": "electrohead.jpg",
+    "images": ["electrohead.gif"]
+  },
+  {
+    "title": "Elegant Lady",
+    "slug": "elegant-lady",
+    "available": false,
+    "categories": ["head", "mannequin"],
+    "thumbnail": "elegantlady.jpg",
+    "images": ["elegantlady.gif"]
+  },
+  {
+    "title": "Dudette",
+    "slug": "dudette",
+    "available": false,
+    "categories": ["head", "mannequin"],
+    "thumbnail": "dudette.jpg",
+    "images": ["dudette.gif"]
+  },
+  {
+    "title": "Dude",
+    "slug": "dude",
+    "available": false,
+    "categories": ["head", "mannequin"],
+    "thumbnail": "dude.jpg",
+    "images": ["dude.gif"]
+  },
+  {
+    "title": "The Lights Are On (But Nobody's Home)",
+    "slug": "the-lights-are-on",
+    "available": false,
+    "categories": ["floor", "mannequin"],
+    "thumbnail": "thelightsareon.jpg",
+    "images": ["thelightsareon1.gif", "thelightsareon2.gif"]
+  },
+  {
+    "title": "Lily Longneck",
+    "slug": "lily-longneck",
+    "available": true,
+    "categories": ["floor", "mannequin"],
+    "thumbnail": "lilylongneck.jpg",
+    "images": ["lilylongneck1.gif", "lilylongneck2.gif"]
+  },
+  {
+    "title": "Two Heads Are Better Than One",
+    "slug": "two-heads-are-better",
+    "available": true,
+    "categories": ["floor", "mannequin"],
+    "thumbnail": "twoheadsarebetter.jpg",
+    "images": ["twoheadsarebetter1.gif", "twoheadsarebetter2.gif", "twoheadsarebetter3.gif"]
+  }
+]
