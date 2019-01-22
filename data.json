@@ -1,13 +1,5 @@
 [
   {
-    "title": "humanity",
-    "slug": "humanity",
-    "available": true,
-    "categories": ["sculpture"],
-    "thumbnail": "humanity.jpg",
-    "images": ["humanity_1.jpg", "humanity_2.jpg"]
-  },
-  {
     "title": "fleeting thought",
     "slug": "fleeting-thought",
     "available": false,
@@ -406,5 +398,13 @@
     "categories": ["floor", "mannequin"],
     "thumbnail": "twoheadsarebetter.jpg",
     "images": ["twoheadsarebetter1.gif", "twoheadsarebetter2.gif", "twoheadsarebetter3.gif"]
+  },
+  {
+    "title": "humanity",
+    "slug": "humanity",
+    "available": true,
+    "categories": ["sculpture"],
+    "thumbnail": "humanity.jpg",
+    "images": ["humanity_1.jpg", "humanity_2.jpg"]
   }
 ]
