@@ -1,32 +1,16 @@
 import ListItem from './ListItem.js'
 
-const List = dope => {
-  dope.initialState = {
-    data: null,
-    category: null
-  }
-
-  dope.onMount(async () => {
-    const res = await fetch('../data.json')
-    const data = await res.json()
-    dope.state = { data }
-  })
-
-  if (!dope.state.data) {
+const List = (dope, props) => {
+  if (!props.data) {
     return dope.make(null)
   }
 
-  window.onhashchange = evt => {
-    const hash = location.hash
-    dope.state = { category: hash && hash.substring(1) }
-  }
-
-  const ListItems = dope.state.data
+  const ListItems = props.data
     .filter(({ categories }) => {
       if (!dope.state.category) {
         return true
       }
-      return categories.includes(dope.state.category)
+      return categories.includes(props.category)
     })
     .map(lampData => dope.inject(ListItem, lampData))
 
