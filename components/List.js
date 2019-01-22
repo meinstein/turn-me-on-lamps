@@ -1,7 +1,10 @@
 import ListItem from './ListItem.js'
 
 const List = dope => {
-  dope.initialState = { data: null }
+  dope.initialState = {
+    data: null,
+    category: null
+  }
 
   dope.onMount(async () => {
     const res = await fetch('../data.json')
@@ -9,23 +12,31 @@ const List = dope => {
     dope.state = { data }
   })
 
-  window.onhashchange = evt => console.log('hash change', evt)
-
   if (!dope.state.data) {
-    return dope.make('p', { text: 'Loading...' })
+    return dope.make(null)
   }
 
-  const ListItems = dope.state.data.map(lampData => {
-    return dope.inject(ListItem, lampData)
-  })
+  window.onhashchange = evt => {
+    const hash = location.hash
+    dope.state = { category: hash && hash.substring(1) }
+  }
+
+  const ListItems = dope.state.data
+    .filter(({ categories }) => {
+      if (!dope.state.category) {
+        return true
+      }
+      return categories.includes(dope.state.category)
+    })
+    .map(lampData => dope.inject(ListItem, lampData))
 
   return dope.make('div', {
+    children: ListItems,
     style: {
       display: 'flex',
       flexDirection: 'column',
       alignItems: 'center'
-    },
-    children: ListItems
+    }
   })
 }
 
