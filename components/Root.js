@@ -1,3 +1,5 @@
+import { withProps } from 'https://unpkg.com/domdope'
+
 import List from './List.js'
 
 const Root = dope => {
@@ -33,7 +35,7 @@ const Root = dope => {
 
   return dope.make('div', {
     style: { width: '100%' },
-    children: [SortHeader, dope.inject(List, { ...dope.state })]
+    children: [SortHeader, withProps(List, { ...dope.state })]
   })
 }
 

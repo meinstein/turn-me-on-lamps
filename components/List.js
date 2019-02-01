@@ -1,3 +1,5 @@
+import { withProps } from 'https://unpkg.com/domdope'
+
 import ListItem from './ListItem.js'
 
 const List = (dope, props) => {
@@ -12,7 +14,7 @@ const List = (dope, props) => {
       }
       return categories.includes(props.category)
     })
-    .map(lampData => dope.inject(ListItem, lampData))
+    .map(lampData => withProps(ListItem, lampData))
 
   return dope.make('div', {
     children: ListItems,

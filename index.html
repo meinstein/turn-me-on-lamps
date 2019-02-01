@@ -11,9 +11,11 @@
   <body>
     <div id="root"></div>
   </body>
-  <script src="https://unpkg.com/domdope/dist/umd/index.js"></script>
   <script type="module">
+    import DomDope from 'https://unpkg.com/domdope'
+
     import Root from './components/Root.js'
+
     const rootEl = document.getElementById('root')
     const dope = new DomDope(Root, rootEl)
     dope.render()
